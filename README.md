@@ -66,4 +66,4 @@ Good luck, and happy cloud computing!
 - 📅 [Week 02 Journal](journal/week02.md)
 - 📅 [Week 03 Journal](journal/week03.md)
 - 📅 [Week 04 Journal](journal/week04.md)
-- 
+  
