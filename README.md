@@ -18,9 +18,16 @@ Domain name purchased from a domain registrar.
 - [AWS Documentation ](https://aws.amazon.com/documentation/)
 - [AWS Free Tier Account](https://aws.amazon.com/free/)
 - [GitHub for version control and code hosting](https://github.com/)
+- 
+## Using Services:
+- S3
+- AWS CloudFront
+- Certificate Manager
+- AWS Lambda
+- Dynamo DB
+- GitHub Actions
+- Terraform
 
-Acknowledgments:
-The Cloud Resume Challenge is inspired by the work of Forrest Brazeal, and it's designed to help you gain hands-on experience with AWS services while creating a unique and impressive resume.
 
 Good luck, and happy cloud computing!
 
