@@ -59,3 +59,11 @@ Acknowledgments:
 The Cloud Resume Challenge is inspired by the work of Forrest Brazeal, and it's designed to help you gain hands-on experience with AWS services while creating a unique and impressive resume.
 
 Good luck, and happy cloud computing!
+
+## Weekly Journals 📔
+- 📅 [Week 00 Journal](journal/week00.md)
+- 📅 [Week 01 Journal](journal/week01.md)
+- 📅 [Week 02 Journal](journal/week02.md)
+- 📅 [Week 03 Journal](journal/week03.md)
+- 📅 [Week 04 Journal](journal/week04.md)
+- 
