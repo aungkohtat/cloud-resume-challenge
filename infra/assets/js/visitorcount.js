@@ -4,7 +4,7 @@ async function get_visitors() {
   //await post_visitor();
   try {
     let response = await fetch(
-      'https://l9d31el1y4.execute-api.us-east-1.amazonaws.com/default/VisitorCounter', // API Gateway URL
+      ' https://165oxeo0oa.execute-api.us-east-1.amazonaws.com/default/VisitorCounter', // API Gateway URL
       {
         method: "GET",
       }
